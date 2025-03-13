@@ -19,6 +19,14 @@ conferencing session.
 MacOS 13.0
 
 
+## How To Run:
+Clone or download the project.
+Launch TestTaskVideo.xcodeproj file. Xcode should be launched.
+Build the project.
+Run the project to play with the application.
+
+
 ## Notes:
 
 The compiled executable can be signed to Run Locally only.
+There are no any external libraries and frameworks used.
