@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[TestTaskViewController starttCamera:]:TestTaskViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.checkGrayscale.state">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TestTaskViewController startCamera:]:TestTaskViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.viewPreview.bounds">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
